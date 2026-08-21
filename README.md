@@ -3,6 +3,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,py,tensorflow,pytorch,opencv,sklearn,c,cpp,r,ruby,rust,sqlite,matlab,linux,ubuntu,git,github,obsidian,md,bash,cloudflare,vim,godot,linkedin&theme=light&perline=12" />
+    <img src="https://skillicons.dev/icons?i=vscode,py,pytorch,opencv,sklearn,c,cpp,sqlite,matlab,linux,ubuntu,git,bash,cloudflare&theme=light&perline=18" />
   </a>
 </p>
