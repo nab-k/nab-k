@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Nabhya</h1>
+<h1 align="center">Nabhya Kale</h1>
 <h3 align="center">I build algorithmic trading tools and machine learning projects</h3>
 
 <p align="center">
