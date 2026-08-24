@@ -9,3 +9,10 @@
     <img src="https://skillicons.dev/icons?i=vscode,py,matlab,linux,ubuntu,c&theme=light&perline=18" />
   </a>
 </p>
+
+## Open Source & Community
+
+- **Python Mentor — Exercism**  
+  Mentor Python learners by reviewing solutions, discussing alternative approaches,
+  and helping students develop problem-solving and software engineering skills.
+  [Exercism Profile](https://exercism.org/profiles/nab-k)
