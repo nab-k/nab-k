@@ -6,9 +6,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,py,matlab,linux,ubuntu,c&theme=light&perline=18" />
+    <img src="https://skillicons.dev/icons?i=vscode,py,matlab,ubuntu,c&theme=light&perline=18" />
   </a>
 </p>
+
 
 ## Open Source & Community
 
@@ -16,3 +17,9 @@
   Mentor Python learners by reviewing solutions, discussing alternative approaches,
   and helping students develop problem-solving and software engineering skills.
   [Exercism Profile](https://exercism.org/profiles/nab-k)
+
+## Currently Learning
+
+- C and modern C++ development
+- Financial derivatives
+- Data structures and algorithms
