@@ -16,7 +16,7 @@
 - **Python Mentor — Exercism**  
   I Mentor Python learners by reviewing solutions, discussing alternative approaches,
   and helping students develop problem-solving and software engineering skills.
-  [See Profile](https://exercism.org/profiles/nab-k)
+  [View Profile](https://exercism.org/profiles/nab-k)
 
 ## Currently Learning
 
