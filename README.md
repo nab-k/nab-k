@@ -18,8 +18,4 @@
   and helping students develop problem-solving and software engineering skills.
   [View Profile](https://exercism.org/profiles/nab-k)
 
-## Currently Learning
 
-- C and modern C++ development
-- Financial derivatives
-- Data structures and algorithms
